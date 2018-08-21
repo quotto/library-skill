@@ -1,0 +1,4 @@
+src/node_modules
+src/test.js
+deploy/deploy.properties
+deploy/*.zip
